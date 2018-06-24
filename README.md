@@ -2,7 +2,7 @@
 The project implements the following animation:
 
 ![](https://github.com/Ajian-studio/GALeafLoading/blob/master/raw/leaf_loading_readme.gif)  
-
+more details : [GAStudio](https://blog.csdn.net/tianjian4592/article/details/44538605)
 ## License
     Copyright 2016 GAStudio
 
